@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hey yall, I'm Sachin 
 
-<!--
-**sachsom95/sachsom95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring software developer and a graduate in Electronics and Instrumentation. I am currently based in Dublin the city of Guinness and Craic and originally from Kerala, India. I love coding in Python and I am currenlty making exciting stuff in Django. I love working on any engineering problems from formula cars to writing "Hello,World" in Javascript. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Dublin bus app 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you guys want to collaborate with me on any cool projects hit me up on [Linkedin](https://www.linkedin.com/in/sachin-soman/)
+###### PS I have a blog go check it out [Python is Weird](https://sachsom95.github.io/Python_blog/)
+
+
+- ⚡ Fun fact: Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
+I'm Currently doing Msc CS from UCD
+
+
+
