@@ -8,7 +8,7 @@ If you guys want to collaborate with me on any cool projects hit me up on [Linke
 ###### PS I have a blog go check it out [Python is Weird](https://sachsom95.github.io/Python_blog/)
 
 
-- Fun fact: Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
+- Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
 - I'm Currently doing Msc CS from UCD if you are into fencing hit me up and we will go for a bout or two
 
 
