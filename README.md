@@ -2,7 +2,8 @@
 
 I am an aspiring software developer and a graduate in Electronics and Instrumentation. I am currently based in Dublin, the city of Guinness and Craic and originally from Kerala, India. I love coding in Python and I am currenlty making exciting stuff in Django. I love working on any engineering problems from formula cars to writing "Hello,World" in Javascript. 
 
-- 🔭 I’m currently working on Dublin bus app 
+- 🔭 I’m currently working on Dublin bus app ---> Done
+- 🔭 I’m currently working on chat app using Springboots 
 - checkout my [Portfolio](https://www.sachinsoman.com)
 
 If you guys want to collaborate with me on any cool projects hit me up on [Linkedin](https://www.linkedin.com/in/sachin-soman/)
