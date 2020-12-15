@@ -11,7 +11,7 @@ If you guys want to collaborate with me on any cool projects hit me up on [Linke
 
 
 - Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
-- I'm Currently Demonstrator for Comp 30680 do ask about the module .If you are into fencing hit me up and we will go for a bout or two
+- I'm Currently Demonstrator for [COMP30680](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=COMP30680) do ask about the module. If you are into fencing hit me up and we will go for a bout or two.
 - I am mentor for Python track in [Exercism](https://exercism.io/)
 
 
