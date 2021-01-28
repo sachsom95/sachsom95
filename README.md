@@ -13,7 +13,7 @@ I am an aspiring software developer and a graduate in Electronics and Instrument
     * [COMP20050 Software Engineering Project 2](https://sisweb.ucd.ie/usis/!W_HU_MENU.P_PUBLISH?p_tag=MODULE&MODULE=COMP20050) 
     do ask about the modules.
     
-- I am also mentor for Python track in [Exercism](https://exercism.io/)
+- I am also mentor for Python track in [Exercism](https://exercism.io/) and help a bit by contributing to the V3 version of Exercism which is soon to be realeased :)
 
 
 If you guys want to collaborate with me on any cool projects hit me up on [Linkedin](https://www.linkedin.com/in/sachin-soman/)
