@@ -18,6 +18,6 @@ I am a software Engineer and a graduate in Electronics and Instrumentation. Curr
 
 If you guys want to collaborate with me on any cool projects hit me up on [Linkedin](https://www.linkedin.com/in/sachin-soman/)
 
-If you are into fencing we can go for a bout or two. I prefer foil over eepe.
+Into fencing? we can go for a bout or two. I prefer foil over eepe.
 
 
