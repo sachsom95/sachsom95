@@ -17,6 +17,7 @@ I am a software Engineer and a graduate in Electronics and Instrumentation. Curr
 - If anyone is interested in a [career](https://www.protex.ai/careers) at Protex do send a message :)
 
 If you guys want to collaborate with me on any cool projects hit me up on [Linkedin](https://www.linkedin.com/in/sachin-soman/)
-If you are into fencing hit me up and we will go for a bout or two. I prefer foil over eepe.
+
+If you are into fencing we can go for a bout or two. I prefer foil over eepe.
 
 
