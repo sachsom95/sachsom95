@@ -1,8 +1,8 @@
 # Hey yall, I'm Sachin 
 
-Note: Not active on Github as all my work is now in bitbucket 
+Note: Not active on Github as all my work is now in Gitlab 
 
-I am a software Engineer and a graduate in Electronics and Instrumentation. Currently based in Dublin, the city of Guinness and Craic and originally from Kerala, India. I love coding in Python and I am currently working as an Engineer at Protex AI as part of the founding team, helping develop the product side of business by collaborating with amazing folks. I love working on any engineering problems from formula cars to writing "Hello,World" in Javascript. I am currently an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :)
+I am a SWE and PM @ Protex AI currently building the product side of Protex AI as part of the founding team. I have BTech in Electronics and Instrumentation, MSc in Computer Science, I am Currently based in Dublin, the city of Guinness and Craic and originally from Kerala, India. Previously an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :)
 
 - checkout my [Portfolio](https://www.sachinsoman.com) has all my work
 - Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
