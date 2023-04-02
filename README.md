@@ -2,7 +2,7 @@
 
 Note: Not active on Github as all my work is now in Gitlab 
 
-Founding engineer and PM @ Protex AI, currently building the product side of the business. I have BTech in Electronics and Instrumentation and an MSc in Computer Science,Based out of Dublin, the city of Guinness and Craic and originally from Kerala, India. Previously an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :).
+Founding engineer and Technical PM @ Protex AI, currently building the product side of the business. I have BTech in Electronics and Instrumentation and an MSc in Computer Science,Based out of Dublin, the city of Guinness and Craic and originally from Kerala, India. Previously an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :).
 
 - checkout my [Portfolio](https://www.sachinsoman.com) has all my work
 - Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
