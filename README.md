@@ -1,7 +1,12 @@
 # Hey yall, I'm Sachin 
+Hey there! My name is Sachin, first founding engineer of Protex AI, and I've built the product engineering division of Protex AI.
 
+My focus has been on establishing our cloud infrastructure, enhancing our frontend systems, and empowering our engineering team to innovate and push boundaries.
+The goal? Driving Protex towards achieving and expanding our Product-Market Fit.
 
-Founding engineer and Technical PM @ Protex AI, currently building the product side of the business. I have BTech in Electronics and Instrumentation and an MSc in Computer Science,Based out of Dublin, the city of Guinness and Craic and originally from Kerala, India. Previously an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :).
+My journey here has also included roles as a Technical Product Manager and Software Engineer, providing me with a comprehensive perspective on both being an IC and a PM.
+
+I have BTech in Electronics and Instrumentation and an MSc in Computer Science,Based out of Dublin, the city of Guinness and Craic and originally from Kerala, India. Previously an [MLH](https://fellowship.mlh.io/programs/open-source) 2021 Fellow :).
 
 - checkout my [Portfolio](https://www.sachinsoman.com) has all my work
 - Wanna know how to pronounce my name put this into google translate സച്ചിൻ.
